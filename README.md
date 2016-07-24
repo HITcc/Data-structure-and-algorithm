@@ -13,3 +13,5 @@
 (5)top_k.cpp 从大量数据中选出k个最小的数。包括冒泡法、最大堆法。
 
 (6)merge_sort.cpp 归并排序及逆序对统计。
+
+(7)merge_k_sorted_lists.cpp 合并k个有序序列。
