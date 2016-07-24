@@ -15,3 +15,5 @@
 (6)merge_sort.cpp 归并排序及逆序对统计。
 
 (7)merge_k_sorted_lists.cpp 合并k个有序序列。
+
+(8)k_of_two_sorted_array.cpp  从两个有序数组中找到第K小（大）的数。
