@@ -17,3 +17,5 @@
 (7)merge_k_sorted_lists.cpp 合并k个有序序列。
 
 (8)k_of_two_sorted_array.cpp  从两个有序数组中找到第K小（大）的数。
+
+(9)only_one_time_num.cpp  从数组中找只出现过一次的数。考虑了两种情况
