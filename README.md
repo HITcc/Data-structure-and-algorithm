@@ -19,3 +19,7 @@
 (8)k_of_two_sorted_array.cpp  从两个有序数组中找到第K小（大）的数。
 
 (9)only_one_time_num.cpp  从数组中找只出现过一次的数。考虑了两种情况
+
+(10)extra_string.cpp 主要是关于字符串split的方法
+
+(11)inverse_list.cpp 反转单链表
