@@ -1,0 +1,5 @@
+map<int, string>::iterator  iter;
+for(iter = mapStudent.begin(); iter != mapStudent.end(); iter++)
+{
+   Cout<<iter->first<<¡±   ¡±<<iter->second<<end;
+}
