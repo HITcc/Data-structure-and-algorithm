@@ -23,3 +23,11 @@
 (10)extra_string.cpp 主要是关于字符串split的方法
 
 (11)inverse_list.cpp 反转单链表
+
+(12)permutation.cpp 全排列
+
+(13)stl_heap.cpp STL中heap的简单使用
+
+(14)stl_priority_queue.cpp STL中优先队列的简单使用
+
+(15)stl_map.txt  STL 中 map 的遍历
